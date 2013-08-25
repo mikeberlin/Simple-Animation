@@ -7,10 +7,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="SimpleAnimation.ios" expanded="True">
-            <Node name="Resources" expanded="True">
-              <Node name="images" selected="True" />
-            </Node>
+          <Node name="SimpleAnimation.ios" expanded="True" selected="True">
+            <Node name="Resources" expanded="True" />
             <Node name="ViewControllers" expanded="True" />
           </Node>
         </State>
