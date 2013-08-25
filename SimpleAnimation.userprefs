@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.Jurrasic 5" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SimpleAnimation.ios/ViewControllers/HomeViewController.cs">
     <Files>
       <File FileName="SimpleAnimation.ios/ViewControllers/HomeViewController.cs" Line="22" Column="3" />
